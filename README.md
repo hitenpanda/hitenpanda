@@ -40,14 +40,6 @@ Next.js (learning)  |  Node.js (learning)  | Prompt Engineering
 
 ---
 
-## 📊 GitHub Stats (because numbers are cool!)
-
-![Hiten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitenpanda&show_icons=true&theme=graywhite&hide_border=true&icon_color=8a8a8a&title_color=4a4a4a&text_color=7a7a7a)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitenpanda&layout=compact&theme=graywhite&hide_border=true&title_color=4a4a4a&text_color=7a7a7a)
-
----
-
 ## 🌊 Find me elsewhere
 
 [![Instagram](https://img.shields.io/badge/-Instagram-8a8a8a?style=flat&logo=instagram)](https://www.instagram.com/the_hiten_panda/)
