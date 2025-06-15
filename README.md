@@ -16,8 +16,8 @@
 ## 🌐 Tech Stack
 
 ```python
-Python  |  Web Dev  |  Full Stack
-Next.js (learning)  |  Node.js (learning)
+Python  |  Web Dev  |  Full Stack  | AI & ML
+Next.js (learning)  |  Node.js (learning)  | Prompt Engineering
 ```
 
 <div align="center">
